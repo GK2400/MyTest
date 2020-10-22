@@ -1,2 +1,7 @@
-This is my first test on git!!
-Change 2
+git init
+git status
+// add file / folder / changes
+git add .
+git commit -m "<message>"
+git remote add origin <repository url.git>
+git push -u origin master
