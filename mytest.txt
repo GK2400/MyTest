@@ -1,3 +1,5 @@
+git config --global user.email "<signupemailid>"
+git config --global user.name "account username"
 git init
 git status
 // add file / folder / changes
